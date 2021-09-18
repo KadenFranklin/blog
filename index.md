@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Index
+permalink: /index/
 ---
+
+Something
+
+[jekyll-organization]: https://github.com/jekyll
