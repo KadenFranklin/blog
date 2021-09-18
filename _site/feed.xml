@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2021-09-17T22:35:12-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">The Coolest blog ever</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Reflection Post!</title><link href="http://localhost:4000/blog/jekyll/update/2021/09/17/Reflection-Post.html" rel="alternate" type="text/html" title="Reflection Post!" /><published>2021-09-17T05:00:00-05:00</published><updated>2021-09-17T05:00:00-05:00</updated><id>http://localhost:4000/blog/jekyll/update/2021/09/17/Reflection%20Post</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/update/2021/09/17/Reflection-Post.html">&lt;p&gt;This lab did not take me as long as the previous one. I feel like both have given me a good grasp of how to work with a system like jekyll and websites that are set up in this manner. The only thing that took some considerable effort was getting other .md files to appear in the nav bar. (I accidentally edited index.md and that set me back for a minute.)&lt;/p&gt;
+
+&lt;p&gt;I do not believe there is much else to say about this lab. Thus I will leave you with some links that helped me complete this and some pictures of my dog peter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown&quot;&gt;Link 1!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://anvilproject.org/guides/content/creating-links&quot;&gt;Link 2!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;peter_1.jpg&quot; alt=&quot;A picture of Peter!!!1&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ah he’s so cute!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;peter_2.jpg&quot; alt=&quot;A picture of Peter!!!&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">This lab did not take me as long as the previous one. I feel like both have given me a good grasp of how to work with a system like jekyll and websites that are set up in this manner. The only thing that took some considerable effort was getting other .md files to appear in the nav bar. (I accidentally edited index.md and that set me back for a minute.)</summary></entry><entry><title type="html">Introduction Post!</title><link href="http://localhost:4000/blog/jekyll/update/2021/09/13/Introduction-Post.html" rel="alternate" type="text/html" title="Introduction Post!" /><published>2021-09-13T01:19:00-05:00</published><updated>2021-09-13T01:19:00-05:00</updated><id>http://localhost:4000/blog/jekyll/update/2021/09/13/Introduction%20Post</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/update/2021/09/13/Introduction-Post.html">&lt;p&gt;Here we go the first official post on my blog. My experience in setting up this blog was fairly easy. I think it is so easy, practically anyone could do it given the right instructions and guidance. All it really took was installing ruby and a couple things through the command prompt. I did accidentally skip a step. This left me without some of the critical sections of this blog that make it function as a real website.&lt;/p&gt;
+
+&lt;p&gt;After some time and assistance from my professor, I fixed my mistake and got this blog to its current state. If you plan on following in my footsteps I recommend that you:&lt;/p&gt;
+
+&lt;p&gt;*Read directions a few times over
+*Double check to make sure your commands are executed
+*Do A little bit of research about what you are installing
+*Think Creatively, it can only get better from here&lt;/p&gt;
+
+&lt;p&gt;And if you are so enthusiastic about making your first blog you cannot control yourself. You may follow the directions &lt;a href=&quot;https://hendrix-cs.github.io/csci340/labs/jekyllmods.html&quot;&gt;HERE&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Here we go the first official post on my blog. My experience in setting up this blog was fairly easy. I think it is so easy, practically anyone could do it given the right instructions and guidance. All it really took was installing ruby and a couple things through the command prompt. I did accidentally skip a step. This left me without some of the critical sections of this blog that make it function as a real website.</summary></entry></feed>
