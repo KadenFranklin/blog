@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Index
-permalink: /index/
+#Sample Text  
+#Pingas
+
+
+
+layout: home
 ---
-
-Something
-
-[jekyll-organization]: https://github.com/jekyll
