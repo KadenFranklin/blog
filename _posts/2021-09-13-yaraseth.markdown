@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Yaraseths Post!"
-date:   2021-09-13 1:19:00 -0500
-categories: jekyll update
----
-Change the text
