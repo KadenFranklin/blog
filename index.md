@@ -6,3 +6,4 @@
 
 layout: home
 ---
+Welcome to da blog
