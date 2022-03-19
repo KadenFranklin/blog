@@ -22,6 +22,6 @@ On this the only real development was that I made it access the correct css file
 I changed the css a little bit. Added a border around the map, added the search bar and made trees searchable by number I think. Also made buttons for specialty categories, but the buttons did not actually do anything in this version.
 
 
-[New](https://kadenfranklin.github.io/actually-a-map/new/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
+[New](https://kadenfranklin.github.io/actually-a-map/New/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
 
 This was the first version of the map that was actually linked to the database. That is why you see the for each item in Model.specialties. It also read tree coordinates from the database as well, but for the last HTML file I just left it reading 5 random locations.
