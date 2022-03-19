@@ -13,8 +13,8 @@ I do not believe there is much else to say about this lab. Thus I will leave you
 
 [Link 2!](https://anvilproject.org/guides/content/creating-links)
 
-![A picture of Peter!!!1](peter_1.jpg)
+![A picture of Peter!!!1](https://kadenfranklin.github.io/blog/assets/peter_1.jpg)
 
 * Ah he's so cute!
 
-![A picture of Peter!!!](peter_2.jpg)
+![A picture of Peter!!!](https://kadenfranklin.github.io/blog/assets/peter_2.jpg)
