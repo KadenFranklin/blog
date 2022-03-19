@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maps"
+title:  "An iteration of maps"
 date:   2022-3-19 3:00:00 -0500
 categories: Hendrix Arboretum
 ---
@@ -13,12 +13,15 @@ There already existed a webpage for the Hendrix Arboretum but it was not interac
 
 
 [Old](https://kadenfranklin.github.io/actually-a-map/Old/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
+
 On this the only real development was that I made it access the correct css files. Definitely took me way too long to figure this on out. For future reference, the difference between this and the first is './' preceding some files instead '..'
 
 
 [Middle](https://kadenfranklin.github.io/actually-a-map/Middle/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
+
 I changed the css a little bit. Added a border around the map, added the search bar and made trees searchable by number I think. Also made buttons for specialty categories, but the buttons did not actually do anything in this version.
 
 
 [New](https://kadenfranklin.github.io/actually-a-map/new/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
-This was the first version of the map that was actually linked to the database. That is why you see the for each item in Model.specialties. It also read tree coordinates from the database as well, but for the last HTML file i just left it reading 5 random locations.
+
+This was the first version of the map that was actually linked to the database. That is why you see the for each item in Model.specialties. It also read tree coordinates from the database as well, but for the last HTML file I just left it reading 5 random locations.
