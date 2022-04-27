@@ -19,7 +19,7 @@ On this the only real development was that I made it access the correct css file
 
 [Middle](https://kadenfranklin.github.io/actually-a-map/Middle/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
 
-I changed the css a little bit. Added a border around the map, added the search bar and made trees searchable by number I think. Also made buttons for specialty categories, but the buttons did not actually do anything in this version.
+I changed the css a little bit. Added a border around the map, added the search bar and made trees searchable by number I think. Also made buttons for specialty categories, but the buttons did not actually do anything in this version. There are trees on this map, but they are randomly generated, you can click them and see the infoboxes I made, their links and pictures do not work without the rest of the project though.
 
 
 [New](https://kadenfranklin.github.io/actually-a-map/New/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
