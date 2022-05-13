@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Back Home"
+date:   2022-05-12 18:00:00 -0500
+categories: Personal
+---
+
+I did it. I made it through another semester at HDX! Not like it is usually challenging but this previous one was particularly bad for me. I kinda sorta did some cool stuff for a final project, working with facial detection algorithms and pizza. It didn't go the exact way I planned and if you know me, procrastinating is my favorite hobby. But I feel like I missed a shot to do something really fun. If you wanna look at it, its [here] (https://github.com/KadenFranklin/pizza_pasta). Maybe one day I'll finish it completely far past the deadline.
+
+But yeah I am back home for a week and a half. I finally got around to fixing the css styling of this blog, it looks pretty swag if I do say so myself. I finally figured out how to do stuff under the hood of these jekyll.md files, so I am actually enjoying this blogging thing. The Arboretum is being diligently worked on by Dr. Goadrich and I am excited about the future for a change. I am going to Colorado for the summer. I am doing trail maintenance with MHYC in Denver. I may or may not be camping an unhealthy amount and or living out of my car. But I'm not really as scared as I think I should be. I feel like if anything I really want to do it. It is such a change from what is normally going on in my life I feel like it will be so good for me. I get to live in the mountains, high elevations means less dense air so I will come back home with the endurance of a greek god. But no, I am excited to just climb a bunch of rocks, smoke so much weed, and feel useful doing what I like to do.
+
+I'm gonna try to figure out how to upload a video on here, and maybe fill a webpage with images of variable size.
+
+But don't hold me to that.
