@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<script src="../assets/js/masonry.pkgd.js"></script>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -11,13 +13,15 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="grid">
+    {% for image in page.images %}
+    <div class="grid-item" style="width:200px; display:inline-block;"> <img src="{{ image.image_path }}" alt="{{ image.title}}" />  </div>
+    {% endfor %}
+  </div>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-
-  <!--https://kadenfranklin.github.io/blog/assets/peter-->
-
-  <!-- Kinda want all the images to be different resolutions and just be arranged in a random order like in a google image result pg or something -->
 </article>

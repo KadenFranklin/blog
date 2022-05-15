@@ -1,7 +1,106 @@
 ---
 layout: picture-wall
 title: Peter!
-permalink: /peter/
+permalink: peter/
+
+images:
+  - image_path: ../assets/peter/1.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/2.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/3.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/10.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/5.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/6.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/7.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/4.jpg
+    title: A picture of Peter!
+ # 8 is just blurry
+  - image_path: ../assets/peter/9.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/11.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/12.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/13.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/14.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/15.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/16.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/17.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/18.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/19.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/20.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/21.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/22.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/23.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/24.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/25.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/26.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/27.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/28.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/29.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/30.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/31.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/32.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/33.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/34.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/35.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/36.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/37.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/38.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/39.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/40.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/41.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/42.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/43.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/44.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/45.jpg
+    title: A picture of Peter!
+  - image_path: ../assets/peter/46.jpg
+    title: A picture of Peter!
+#  - image_path: ../assets/peter/de.mov
+#    title: A video of Peter!
+#  - image_path: ../assets/peter/dee.mov
+#    title: A video of Peter!
+#  - image_path: ../assets/peter/deez.mov
+#    title: A video of Peter!
 ---
 
 In an attempt to make this blog a little more personal I am adding a page about my dog. (He's great)
