@@ -25,3 +25,6 @@ I changed the css a little bit. Added a border around the map, added the search 
 [New](https://kadenfranklin.github.io/actually-a-map/New/The%20Hendrix%20College%20Campus%20Arboretum%20_%20Hendrix%20College)
 
 This was the first version of the map that was actually linked to the database. That is why you see the for each item in Model.specialties. It also read tree coordinates from the database as well, but for the last HTML file I just left it reading 5 random locations.
+
+
+Since then the Arboretum has been worked on by Dr. Goadrich and DiscoTray studios. I helped with some miscellaneous tasks along its development, but it turned out great. [You can see it here](https://hendrix-arboretum.azurewebsites.net/)
