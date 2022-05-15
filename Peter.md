@@ -4,96 +4,96 @@ title: Peter!
 permalink: peter/
 
 images:
-  - image_path: ../assets/peter/1.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/1.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/2.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/2.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/3.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/3.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/10.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/10.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/5.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/5.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/6.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/6.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/7.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/7.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/4.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/4.JPG
     title: A picture of Peter!
  # 8 is just blurry
-  - image_path: ../assets/peter/9.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/9.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/11.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/11.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/12.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/12.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/13.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/13.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/14.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/14.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/15.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/15.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/16.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/16.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/17.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/17.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/18.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/18.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/19.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/19.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/20.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/20.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/21.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/21.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/22.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/22.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/23.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/23.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/24.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/24.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/25.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/25.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/26.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/26.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/27.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/27.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/28.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/28.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/29.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/29.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/30.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/30.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/31.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/31.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/32.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/32.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/33.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/33.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/34.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/34.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/35.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/35.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/36.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/36.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/37.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/37.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/38.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/38.jpg
     title: A picture of Peter!
-  - image_path: ../assets/peter/39.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/39.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/40.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/40.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/41.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/41.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/42.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/42.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/43.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/43.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/44.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/44.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/45.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/45.JPG
     title: A picture of Peter!
-  - image_path: ../assets/peter/46.jpg
+  - image_path: https://raw.githubusercontent.com/KadenFranklin/blog/main/assets/Peter/46.JPG
     title: A picture of Peter!
 #  - image_path: ../assets/peter/de.mov
 #    title: A video of Peter!
