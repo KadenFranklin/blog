@@ -18,54 +18,58 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header" style="height:75px;">
-        <nav>
-          <ul><li class="fork"><a href="{{ site.baseurl }}">Home</a>
+    <div id="header" style="height: 75px;">
+      <nav>
+        <ul><li class="fork"><a href="{{ site.baseurl }}">Home</a>
 
+        </li>
+        </ul>
+
+        <ul>
+
+          {%- assign default_paths = site.pages | map: "path" -%}
+          {%- assign page_paths = site.header_pages | default: default_paths -%}
+
+          {%- if page_paths -%}
+
+
+            <li class="fork">
+
+              {%- for path in page_paths -%}
+
+                {%- assign my_page = site.pages | where: "path", path | first -%}
+                {%- if my_page.title -%}
+                &nbsp;
+                &nbsp;
+                <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {%- endif -%}
+
+              {%- endfor -%}
           </li>
-          </ul>
 
-          <ul>
+          {%- endif -%}
 
-            {%- assign default_paths = site.pages | map: "path" -%}
-            {%- assign page_paths = site.header_pages | default: default_paths -%}
+        </ul>
 
-            {%- if page_paths -%}
-
-
-              <li class="fork">
-
-                {%- for path in page_paths -%}
-
-                  {%- assign my_page = site.pages | where: "path", path | first -%}
-                  {%- if my_page.title -%}
-                  &nbsp;
-                  &nbsp;
-                  <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-                  {%- endif -%}
-
-                {%- endfor -%}
-            </li>
-
-            {%- endif -%}
-
-          </ul>
-
-        </nav>
-      </div><!-- end header -->
+      </nav>
+    </div><!-- end header -->
 
     <div class="wrapper">
 
       <section>
-
-
+        <!-- Dont need to display all of this on every page -->
+        <div id="title" style="height: 45px;" >
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+          <br>
+          <hr>
+        </div>
 
         {{ content }}
 
         <hr>
         <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
         <span class="credits right"><a href=" "></a></span>
-      </div>
 
       </section>
 
