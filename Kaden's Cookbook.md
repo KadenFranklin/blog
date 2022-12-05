@@ -27,11 +27,12 @@ Ingredients:
 
 Process:
 
-  * Mix all listed ingredients in a bowl, then bake in a _ pan (the most efficient kind)
+  * Mix all listed ingredients in a bowl, until smooth
 
-  *
+  * then bake in a square pan (the most efficient kind) at 450° for ~1hr
 
-        * You can also spread the oil, and Tony's in by mixing the ingredients up with your hands, it is just messy.
+  * (stick a toothpick in the middle, when the middle starts to harden its done)
+
 
 
 
