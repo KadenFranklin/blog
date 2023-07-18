@@ -1,23 +1,18 @@
 // first thing should be a call to the twitter api to get the # of blocked accounts
 // store that in a variable and send it to _func()  intToString(integ){ }
 
-var digitsOld = [],
-  digitsNew = [],
-  list0 = ["0", "0", "0", "0"],
-  list1 = ["0", "0", "0", "1"],
-  list2 = ["0", "0", "0", "0"]
+var digitsOld = [], digitsNew = [], list0 = ["0", "0", "0", "0"], list1 = ["0", "0", "0", "1"], list2 = ["0", "0", "0", "0"];
 
-var list3 = ["0", "0", "0", "1"]
+makeUL(list0, "list0");
+makeUL(list0, "list1");
+makeUL(list2, "list2");
 
-// makeUL
-// checkLists -> animate -> doMove or moveDown -> reset
-
-// make UL and animate need to be cleaned up into one function
-// maybe a replace() function to clear the screen
-
-document.getElementById("wrap").appendChild(makeUL(list0, "list0"));
-document.getElementById("wrap").appendChild(makeUL(list0, "list1"));
-document.getElementById("wrap").appendChild(makeUL(list2, "list2"));
+function intToList(n){
+  digits = String(n)
+  .split('')
+  .map(n);
+  return digits;
+}
 
 function makeUL(array, varName) {
   var listView = document.createElement("ul");
@@ -38,7 +33,6 @@ function makeUL(array, varName) {
   if (array.length > 15) {
     x = [3, 6, 9, 12, 15];
   }
-
   for (var i = 0; i < array.length; i++) {
     for (var j = 0; j < x.length; j++) {
       if (i == x[j]) {
@@ -63,7 +57,7 @@ function makeUL(array, varName) {
     listViewItem.appendChild(document.createTextNode(array[i]));
     listView.appendChild(listViewItem);
   }
-  return listView;
+  return document.getElementById("wrap").appendChild(listView);
 }
 
 function checkLists(x, y) {
@@ -162,11 +156,125 @@ function moveDown(id, name1, name2) {
   }
 }
 
-//var list0 = Array.from(document.querySelectorAll('#list0>li'));
+function replaceUL(a0, a1, a2){
+  if (a0.length > 3) {
+    x0 = [3];
+  }
+  if (a0.length > 6) {
+    x0 = [3, 6];
+  }
+  if (a0.length > 9) {
+    x0 = [3, 6, 9];
+  }
+  if (a0.length > 12) {
+    x0 = [3, 6, 9, 12];
+  }
+  if (a0.length > 15) {
+    x0 = [3, 6, 9, 12, 15];
+  }
+  if (document.getElementById("list0")){
+    var newElement = document.createElement("ul");
+    for (var i = 0; i < a0.length; i++) {
+      for (var j = 0; j < x0.length; j++) {
+        if (i == x0[j]) {
+          var listViewItem = document.createElement("li");
+          listViewItem.className = "seperator";
+          listViewItem.style.opacity = 0;
+          listViewItem.appendChild(document.createTextNode(","));
+          newElement.appendChild(listViewItem);
+        }
+      }
+      var listViewItem = document.createElement("li");
+      listViewItem.className = "";
+      listViewItem.style.opacity = 0;
+      listViewItem.appendChild(document.createTextNode(a0[i]));
+      newElement.appendChild(listViewItem);
+    }
+    newElement.id = "list0";
+    var lis0 = document.getElementById('list0');
+    lis0.replaceWith(newElement);
+  }
+  if (a1.length > 3) {
+    x1 = [3];
+  }
+  if (a1.length > 6) {
+    x1 = [3, 6];
+  }
+  if (a1.length > 9) {
+    x1 = [3, 6, 9];
+  }
+  if (a1.length > 12) {
+    x1 = [3, 6, 9, 12];
+  }
+  if (a1.length > 15) {
+    x1 = [3, 6, 9, 12, 15];
+  }
+  if (document.getElementById("list1")){
+    var newElement = document.createElement("ul");
+    for (var i = 0; i < a1.length; i++) {
+      for (var j = 0; j < x1.length; j++) {
+        if (i == x1[j]) {
+          var listViewItem = document.createElement("li");
+          listViewItem.className = "seperator";
+          listViewItem.style.opacity = 1;
+          listViewItem.appendChild(document.createTextNode(","));
+          newElement.appendChild(listViewItem);
+        }
+      }
+      var listViewItem = document.createElement("li");
+      listViewItem.className = "";
+      listViewItem.style.opacity = 1;
+      listViewItem.appendChild(document.createTextNode(a1[i]));
+      newElement.appendChild(listViewItem);
+    }
+    newElement.id = "list1";
+    var lis1 = document.getElementById('list1');
+    lis1.replaceWith(newElement);
+  }
+  if (a2.length > 3) {
+    x2 = [3];
+  }
+  if (a2.length > 6) {
+    x2 = [3, 6];
+  }
+  if (a2.length > 9) {
+    x2 = [3, 6, 9];
+  }
+  if (a2.length > 12) {
+    x2 = [3, 6, 9, 12];
+  }
+  if (a2.length > 15) {
+    x2 = [3, 6, 9, 12, 15];
+  }
+  if (document.getElementById("list2")){
+    var newElement = document.createElement("ul");
+    for (var i = 0; i < a2.length; i++) {
+      for (var j = 0; j < x2.length; j++) {
+        if (i == x2[j]) {
+          var listViewItem = document.createElement("li");
+          listViewItem.className = "seperator";
+          listViewItem.style.opacity = 0;
+          listViewItem.appendChild(document.createTextNode(","));
+          newElement.appendChild(listViewItem);
+        }
+      }
+      var listViewItem = document.createElement("li");
+      listViewItem.className = "";
+      listViewItem.style.opacity = 0;
+      listViewItem.appendChild(document.createTextNode(a2[i]));
+      newElement.appendChild(listViewItem);
+    }
+    newElement.id = "list2";
+    var lis2 = document.getElementById('list2');
+    lis2.replaceWith(newElement);
+  }
+  if ( a0[a0.length - 1] > a1[a1.length - 1]){
+    checkLists(a0, a1);
+  }
+  if ( a1[a1.length - 1] < a2[a2.length - 1]){
+    checkLists(a1, a2);
+  }
+}
 
-// var lis = document.getElementById(id).getElementsByTagName("li");
-// for (var i = 0; i < lis.length; i++){
-//   console.log(lis[i].innerHTML);
-// }
-
-checkLists(list0, list3);
+// setTimeout('', 3000);
+replaceUL(list0, list2, list1);
