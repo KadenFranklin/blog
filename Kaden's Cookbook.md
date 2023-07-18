@@ -10,7 +10,7 @@ I'll also sharing a personal anecdote about where the recipe comes from or why I
 
 # Brownies
 
-####### Absolutely not stolen from an Instagram post
+#### Absolutely not stolen from an Instagram post.
 
 Ingredients:
 
@@ -28,20 +28,22 @@ Ingredients:
 
 Process:
 
+  * Bake sweet potatoes on a pan in the oven or heat them in the microwave. They are easier to cook with and measure when mashed.
+
   * Mix all listed ingredients in a bowl, until smooth
 
-  * then bake in a square pan (the most efficient kind) at 450° for ~1hr
+  * Then bake in a square pan (the most efficient kind) at 450° for 1hr - 1hr 30
 
-  * (stick a toothpick in the middle, when the middle starts to harden its done)
+  * Stick a toothpick in the middle, when the middle starts to harden its done
 
 
 # Sweet Potato Fries
 
-####### My grandmother was raised on a sweet potato farm, she lived to be 92. I can only dream of existing that long
+#### My grandmother was raised on a sweet potato farm, she lived to be 92. I can only dream of existing that long.
 
 Ingredients:
 
-    * Sweet potatoes
+    * Sweet potatoes (4 - 5 whole)
     * Cooking Oil (any kind)
     * Tony Chachere's (any spice level)
 
@@ -51,48 +53,41 @@ Process:
 
   * After Chopping, spread the sweet potatoes on a baking pan as evenly as possible
 
-  * Drizzle cooking oil over the sweet potatoes.
+  * Drizzle cooking oil over the sweet potatoes
 
   * Sprinkle Tony Chachere's over the sweet potatoes.
 
-        * You can also spread the oil, and Tony's in by mixing the ingredients up with your hands, it is just messy.
+  * You can also spread the oil, and Tony's in by mixing the ingredients up with your hands, it is just messy.
 
   * Place pan in oven at 450° for 1 hour.
 
-    * After 30 mins, remove pan from oven, flip sweet potatoes, and sprinkle more Tony's on the sweet potatoes, and place back in the oven.
+  * After 30 mins, remove pan from oven, flip sweet potatoes, and sprinkle more Tony's on the sweet potatoes, and place back in the oven.
 
 
 # Red Beans and Rice
 
-####### My Mother thinks bacon grease is a family secret.
+#### My Mother thinks bacon grease is a family secret.
 
 Ingredients:
 
     * 2 lbs red kidney beans (I like camellia's)
-
-    * water
-
     * 1 chopped onion (easier to blend though)
-
     * 4 bay leaves
-
     * Bacon grease (2 tbsp)
-
     * 1 cup flour
-
     * Seasonings: Salt, Pepper, Parsley, Garlic Powder, Tony Chachere's, Paprika
-
     * Optional: Ham
+    * Not optional: Water
 
 Process:
 
-  * Leave beans to soak in a pot overnight. (Your body won't be able to digest them otherwise)
+  * Leave beans in a pot to soak in water overnight.
 
   * In the morning drain the water, and replace it with twice as much water as you have beans.
 
-  * Leave the beans on the stove on a low temp, with the 4 bay leaves in the pot for a few hours.
+  * Leave the beans on the stove on a low temp, with the 4 bay leaves in the pot for a few hours. (stir occasionally)
 
-  * 1 - 1.5 hrs before serving add the onion, bacon grease, and seasonings (2 tbsp each) and potentially even ham.
+  * 1 - 1.5 hrs before serving add the chopped onion, bacon grease, and seasonings (2 tbsp each) and potentially even ham.
 
   * Bring the pot to a boil for 10 minutes (stir constantly otherwise it will burn)
 
