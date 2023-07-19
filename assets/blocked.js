@@ -43,6 +43,7 @@ function makeUL(array, varName) {
         } else {
           listViewItem.style.opacity = 1;
         }
+        // set position x and y
         listViewItem.appendChild(document.createTextNode(","));
         listView.appendChild(listViewItem);
       }
@@ -54,6 +55,7 @@ function makeUL(array, varName) {
     } else {
       listViewItem.style.opacity = 1;
     }
+    // set position x and y
     listViewItem.appendChild(document.createTextNode(array[i]));
     listView.appendChild(listViewItem);
   }
@@ -180,6 +182,7 @@ function replaceUL(a0, a1, a2){
           var listViewItem = document.createElement("li");
           listViewItem.className = "seperator";
           listViewItem.style.opacity = 0;
+          // set position, x and y
           listViewItem.appendChild(document.createTextNode(","));
           newElement.appendChild(listViewItem);
         }
@@ -187,6 +190,7 @@ function replaceUL(a0, a1, a2){
       var listViewItem = document.createElement("li");
       listViewItem.className = "";
       listViewItem.style.opacity = 0;
+      // set position, x and y
       listViewItem.appendChild(document.createTextNode(a0[i]));
       newElement.appendChild(listViewItem);
     }
@@ -217,6 +221,7 @@ function replaceUL(a0, a1, a2){
           var listViewItem = document.createElement("li");
           listViewItem.className = "seperator";
           listViewItem.style.opacity = 1;
+          // set position, x and y
           listViewItem.appendChild(document.createTextNode(","));
           newElement.appendChild(listViewItem);
         }
@@ -224,6 +229,7 @@ function replaceUL(a0, a1, a2){
       var listViewItem = document.createElement("li");
       listViewItem.className = "";
       listViewItem.style.opacity = 1;
+      // set position, x and y
       listViewItem.appendChild(document.createTextNode(a1[i]));
       newElement.appendChild(listViewItem);
     }
@@ -254,6 +260,7 @@ function replaceUL(a0, a1, a2){
           var listViewItem = document.createElement("li");
           listViewItem.className = "seperator";
           listViewItem.style.opacity = 0;
+          // set position, x and y
           listViewItem.appendChild(document.createTextNode(","));
           newElement.appendChild(listViewItem);
         }
@@ -261,6 +268,7 @@ function replaceUL(a0, a1, a2){
       var listViewItem = document.createElement("li");
       listViewItem.className = "";
       listViewItem.style.opacity = 0;
+      // set position, x and y
       listViewItem.appendChild(document.createTextNode(a2[i]));
       newElement.appendChild(listViewItem);
     }
