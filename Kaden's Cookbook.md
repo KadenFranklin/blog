@@ -48,8 +48,8 @@ Process:
 Ingredients:
 
     * Sweet potatoes (4 - 5 whole)
-    * Cooking Oil (any kind)
-    * Tony Chachere's (any spice level)
+    * Cooking Oil
+    * Tony Chachere's
 
 Process:
 
@@ -75,10 +75,10 @@ Process:
 
 Ingredients:
 
-    * 2 lbs red kidney beans (I like camellia's)
-    * 1 chopped onion (easier to blend though)
+    * 2 lbs red kidney beans (Camellia's)
+    * 1 large onion
     * 4 bay leaves
-    * Bacon grease (2 tbsp)
+    * 2 tbsp Bacon grease
     * 1 cup flour
     * Seasonings: Salt, Pepper, Parsley, Garlic Powder, Tony Chachere's, Paprika
     * Optional: Ham
@@ -92,7 +92,7 @@ Process:
 
   * Leave the beans on the stove on a low temp, with the 4 bay leaves in the pot for a few hours. (stir occasionally)
 
-  * 1 - 1.5 hrs before serving add the chopped onion, bacon grease, and seasonings (2 tbsp each) and potentially even ham.
+  * 1 - 1.5 hrs before serving add the 1 chopped onion, 2 tbsp bacon grease, and seasonings (2 tbsp each) and potentially ham.
 
   * Bring the pot to a boil for 10 minutes (stir constantly otherwise it will burn)
 
@@ -102,59 +102,116 @@ Process:
 
   ---
 
- # Marry Me Chicken (Pollo con amor)
+# Gumbo
 
- #### From an old friend.
+#### Chicken & Andouille sausage because not everyone has access to good seafood.
 
-  Ingredients:
+Ingredients:
 
-      * 1 tbsp Oil
+  * 1 large onion
+  * 1 Green Bell Pepper
+  * 2 sticks Celery
+  * 2 Cloves garlic
+  * 1 lbs Okra
+  * 1 (14.5 ounce) can stewed tomatoes
+  * 1 (6 ounce) can tomato sauce
+  * 1/2 tbsp Bacon drippings
+  * 1 lbs andouille sausage, sliced
+  * 1 cup flour
+  * 3 quarts water
+  * 6 cubes beef bouillon
+  * 4 bay leaves
+  * 1/2 teaspoon dried thyme leaves
+  * 1 tbsp white sugar
+  * 4 teaspoons file powder, divided
+  * 2 tbsp distilled white vinegar
+  * 2 tbsp Worcestershire sauce
+  * Seasonings: Salt, Pepper, Tony Chachere's, Paprika, Hot Sauce (Tabasco)
 
-  Process:
+Process:
 
-    * Bake
+  * Once You have gathered all the ingredients, mix the 1/2 cup of bacon drippings in a large saucepan over low-medium heat until it becomes a smooth roux. Stir constantly.
 
-  ---
+  * Chop the celery, onion, bell pepper, and mince the garlic then add to the roux, stir for 10-15 mins.
 
-  # Gumbo
+  * Add the water and beef bouillon cubes to a large soup pot and bring to a boil.
 
-  #### Chicken & Andouille sausage because not everyone has access to good seafood.
+  * Stir until bouillon cubes are dissolved, then and the roux and vegetables to the boiling water.
 
-  Ingredients:
+  * Lower the pot to medium heat and add the seasonings: 1 tablespoon white sugar, 1 tsp salt, 1 tsp pepper, 2 tbsp hot pepper sauce, 1 tsp Cajun seasoning. As well as the bay leaves, thyme,  can stewed tomatoes, and can tomato sauce.
 
-      * 1 tbsp Oil
+  * Simmer soup over low heat for 1 hour. mix in 2 teaspoons of file gumbo powder after an hour.
 
-  Process:
+  * Chop the pound of okra, or preferably blend it and add stir into the gumbo.
 
-    * Bake
+  * Add 2 tbsp distilled white vinegar and 2 tbsp Worcestershire sauce and stir on medium hear for 30 more minutes.
 
-  ---
+  * Bring to a boil and then let cool before serving with white rice.
 
-  # Jambalaya
+---
 
-  #### Great for meal prep.
+# Jambalaya
 
-  Ingredients:
+#### Great for meal prep.
 
-      * 1 tbsp Oil
-
-  Process:
-
-    * Bake
-
-  ---
+Ingredients:
 
 
-  # Laundry Detergent
+  * 1 large onion
+  * 1 Green Bell Pepper
+  * 2 sticks Celery
+  * 2 cloves Garlic
+  * 1 whole tomato, or can if you prefer.
+  * 2 cups white rice
+  * 16 fluid oz chicken stock
+  * Seasonings: Salt, Pepper, Garlic Powder, Tony Chachere's, Paprika
+  * 10 oz chicken
+  * 8 oz Andouille sausage
 
-  #### Don't eat this one. Its just to prove you do not need to buy everything.
 
-  Ingredients:
+Process:
 
-      * 1 tbsp Oil
+  * Chop the 1 large onion, 1 bell pepper, and 2 sticks of celery, and mince the 2 garlic and sauté in a large saucepan on medium heat.
 
-  Process:
+  * Chop the chicken and Andouille sausage and add to the saucepan.
 
-    * Bake
+  * Add 2 cups uncooked rice, 16 oz chicken stock, whole tomato, as well as 1 tsp salt, 1 tsp pepper, 1 tbsp Tony Chachere's, and 1 tbsp Paprika to the pan.
 
-  ---
+  * Cover and let cook for 25-30 minutes on high-medium heat, stir constantly to prevent burning.
+
+  * Once the chicken stock has evaporated and the Jambalaya has reached a _ consistency it i ready to eat.
+
+---
+
+# Laundry Detergent
+
+#### Don't eat this one. Its just to prove you do not need to buy everything.
+
+Ingredients:
+
+  * 4lbs 12oz box Borax
+  * 3 bars of Fels-Naptha
+  * 4 lbs box Arm & Hammer baking soda
+  * 4 lbs Oxi Clean
+  * A fragrance, I prefer lavender.
+
+Process:
+
+  * Shave/Grate the fels-naptha bars
+  * Dump all ingredients into a 5 gallon bucket (mix well)
+  * use a 1/2 cup scoop for a load of laundry
+
+---
+<!-- # Marry Me Chicken (Pollo con amor)
+
+#### From an old friend.
+
+ Ingredients:
+
+     * 1 tbsp Oil
+
+ Process:
+
+   * Bake
+
+ --- -->
