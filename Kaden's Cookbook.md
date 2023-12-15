@@ -8,6 +8,9 @@ This one is going to be a little different. I intend to update this periodically
 
 I'll also sharing a personal anecdote about where the recipe comes from or why I enjoy it.
 
+---
+
+
 # Brownies
 
 #### Absolutely not stolen from an Instagram post.
@@ -36,6 +39,7 @@ Process:
 
   * Stick a toothpick in the middle, when the middle starts to harden its done
 
+---
 
 # Sweet Potato Fries
 
@@ -63,6 +67,7 @@ Process:
 
   * After 30 mins, remove pan from oven, flip sweet potatoes, and sprinkle more Tony's on the sweet potatoes, and place back in the oven.
 
+---
 
 # Red Beans and Rice
 
@@ -94,3 +99,62 @@ Process:
   * After the pot has finished boiling, return to low heat, and in a separate container mix about 1 cup of flour with water until it has a creamy consistency.
 
   * Mix this cup of flour-water into the pot, and the beans are ready to serve.
+
+  ---
+
+ # Marry Me Chicken (Pollo con amor)
+
+ #### From an old friend.
+
+  Ingredients:
+
+      * 1 tbsp Oil
+
+  Process:
+
+    * Bake
+
+  ---
+
+  # Gumbo
+
+  #### Chicken & Andouille sausage because not everyone has access to good seafood.
+
+  Ingredients:
+
+      * 1 tbsp Oil
+
+  Process:
+
+    * Bake
+
+  ---
+
+  # Jambalaya
+
+  #### Great for meal prep.
+
+  Ingredients:
+
+      * 1 tbsp Oil
+
+  Process:
+
+    * Bake
+
+  ---
+
+
+  # Laundry Detergent
+
+  #### Don't eat this one. Its just to prove you do not need to buy everything.
+
+  Ingredients:
+
+      * 1 tbsp Oil
+
+  Process:
+
+    * Bake
+
+  ---
